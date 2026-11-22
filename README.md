@@ -1,7 +1,7 @@
 # YOLO Object Detection 
 
 ## 개요
-YOLOv8n과 YOLO26n을 활용하여 객체 탐지 모델을 학습하고 성능을 비교한 프로젝트입니다.
+YOLOv8n과 YOLO26n을 활용하여 모델을 학습하고 두 모델의 성능을 비교하였습니다. 또한 학습된 모델을 활용한 객체 탐지 결과 영상을 제작하여 업로드하였습니다.
 
 ## 학습 환경
 - Google Colab (GPU)
